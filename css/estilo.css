@@ -537,6 +537,12 @@ footer ul li{
   #7b920a);
 }
 
+/*GRADIENTE FOOTER */
+footer{
+  background-image: radial-gradient(#add100,
+  #7b920a);
+}
+
 /*TRANSICIONES LOGO*/
 
 .imgPromo:hover {
